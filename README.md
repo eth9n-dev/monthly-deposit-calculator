@@ -11,7 +11,7 @@ Most of the extra formatting and user input validation could've been done in met
 The most challenging part was implementing the newly learned material such as classes and headers. In order to overcome the challenge, I used some references from the textbook about headers and classes to set up my project. Overall, they were a very useful tool to keep clean and organized code.
 
 # What skills have I gained?
-The entire class material gave me new skills to use. These skills include writing clean code, commenting code, and modularizing code. C++ has since become and language that I want to pursue further after this course.
+The entire class material gave me new skills to use. These skills include writing clean code, commenting code, and modularizing code. C++ has since become a language that I want to pursue further after this course.
 
 # How did I make this program maintainable, readable and adaptable?
 In order to do all of the above, I used classes and header files. Using classes allow for the code in the main method to be clear and concise through its member functions. Anyone who wants to read or adapt the code wouldn't have a hard time due to the comments made about each function and its role in the program.
